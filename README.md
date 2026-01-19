@@ -52,8 +52,8 @@ python generator.py
 ## 📁 Структура проекта
 
 password-generator/
-├── generator.py     # Основной скрипт
 ├── README.md        # Документация
+├── generator.py     # Основной скрипт
 ├── requirements.txt # Зависимости
 └── .gitignore      # Игнорируемые файлы
 ```
