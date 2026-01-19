@@ -7,8 +7,7 @@
 1. Клонируйте репозиторий:
 git clone https://github.com/ваш-логин/password-generator.git
 cd password-generator
-```
-```
+
 2. Создайте виртуальное окружение:
 
 python -m venv venv
